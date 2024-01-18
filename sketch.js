@@ -193,6 +193,16 @@ function preload() {
 function setup() {
   createCanvas(1080, 1080);
 
+  let opcionesI = []
+  for (let i = 0; i < azulejos.length; i++) {
+    opcionesI.push(i);
+
+  }
+
+  for (let i = 0; i < RETICULA * RETICULA; i++) {
+    print(i);
+  }
+
 }
 
 function draw() {
