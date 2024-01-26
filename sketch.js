@@ -120,8 +120,8 @@ const reglas = [
     // tile15
     UP: 0,
     RIGHT: 0,
-    DOWN: 1,
-    LEFT: 0,
+    DOWN: 0,
+    LEFT: 1,
   },
   {
     // tile16
@@ -147,13 +147,13 @@ const reglas = [
   {
     // tile19
     UP: 1,
-    RIGHT: 0,
-    DOWN: 1,
+    RIGHT: 1,
+    DOWN: 0,
     LEFT: 0,
   },
   {
     // tile20
-    UP: 1,
+    UP: 0,
     RIGHT: 0,
     DOWN: 0,
     LEFT: 0,
@@ -182,8 +182,8 @@ const reglas = [
   {
     // tile24
     UP: 1,
-    RIGHT: 0,
-    DOWN: 0,
+    RIGHT: 1,
+    DOWN: 1,
     LEFT: 1,
   },
 ];
