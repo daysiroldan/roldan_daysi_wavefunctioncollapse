@@ -186,6 +186,153 @@ const reglas = [
     DOWN: 1,
     LEFT: 1,
   },
+  {
+    // tile25
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile26
+    UP: 0,
+    RIGHT: 1,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile27
+    UP: 0,
+    RIGHT: 1,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile28
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile29
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile30
+    UP: 0,
+    RIGHT: 1,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile31
+    UP: 0,
+    RIGHT: 1,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile32
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile33
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 1,
+    LEFT: 0,
+  },
+  {
+    // tile34
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile35
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile36
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 1,
+    LEFT: 1,
+  },
+  {
+    // tile37
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 1,
+    LEFT: 0,
+  },
+  {
+    // tile38
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 1,
+    LEFT: 0,
+  },
+  {
+    // tile39
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 1,
+    LEFT: 0,
+  },
+  {
+    // tile40
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile41
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
+  {
+    // tile42
+    UP: 0,
+    RIGHT: 1,
+    DOWN: 1,
+    LEFT: 0,
+  },
+  {
+    // tile43
+    UP: 1,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 0,
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
 
 const NA = reglas.length; // numero de azulejos
