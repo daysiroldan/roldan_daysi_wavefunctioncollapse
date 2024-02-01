@@ -319,19 +319,20 @@ const reglas = [
     DOWN: 0,
     LEFT: 0,
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
+  {
+    // tile44
+    UP: 1,
+    RIGHT: 1,
+    DOWN: 0,
+    LEFT: 0,
+  },
+  {
+    // tile45
+    UP: 0,
+    RIGHT: 0,
+    DOWN: 0,
+    LEFT: 1,
+  },
 
 ];
 
